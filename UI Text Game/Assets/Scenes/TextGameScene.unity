@@ -875,9 +875,10 @@ MonoBehaviour:
   dialogue:
     name: Stephen
     sentences:
-    - OMG, IT WORKS!!
-    - asdf
-    - fghjk
+    - 'Hey Matt, welcome to my text game.  '
+    - I mean't to do more with this project, but my weekend was turned upside down
+      due to a family emergency.
+    - I'll do better with the next assignment.  Sorry.
 --- !u!114 &1462814675
 MonoBehaviour:
   m_ObjectHideFlags: 0
